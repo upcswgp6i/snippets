@@ -1,18 +1,18 @@
-# Snippets
+# snippets
 
-Useful code snippets for React, Node, and everyday tasks.
+A collection of useful code snippets and notes for daily development.
 
 ## Categories
 
-- React hooks & components
-- Node.js utilities
-- CSS / styling patterns
-- Shell scripts & configs
+- React hooks
+- Node utilities
+- Bash commands
+- CSS tricks
 
 ## Usage
 
-Browse the folders and copy what you need. Most snippets are self-contained.
+Browse the folders or search for a specific snippet. Each file includes a short comment explaining the context.
 
-## Contributing
+## License
 
-Feel free to open a PR with your own useful snippets.
+MIT
